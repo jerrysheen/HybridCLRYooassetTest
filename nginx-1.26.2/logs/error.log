@@ -1,0 +1,2 @@
+2025/01/24 15:25:11 [error] 37264#35716: *1 CreateFile() "E:\GithubST\HybridCLRYooassetTest\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8084", referrer: "http://127.0.0.1:8084/"
+2025/01/24 15:25:52 [error] 37264#35716: *1 directory index of "E:\GithubST\HybridCLRYooassetTest\nginx-1.26.2/html/TestProject/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /TestProject/ HTTP/1.1", host: "127.0.0.1:8084"
